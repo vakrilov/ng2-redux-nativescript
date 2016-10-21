@@ -1,0 +1,1 @@
+Example application running [ng2-redux](https://github.com/angular-redux/ng2-redux) library with NativeScript.
